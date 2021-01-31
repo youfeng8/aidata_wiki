@@ -34,4 +34,4 @@
 13. Imbalanced Classification for Big Data
 14. Software and Libraries for Imbalanced Classification
 
-  [1]: https://raw.githubusercontent.com/youfeng8/aidata_wiki/master/image/读书笔记【learning from imbalanced data sets】/image_1etc0dgh810vvvp417e817n9rvj9.png
+  [1]: https://raw.githubusercontent.com/youfeng8/aidata_wiki/master/image/读书笔记【learningfromimbalanceddatasets】/image_1etc0dgh810vvvp417e817n9rvj9.png
